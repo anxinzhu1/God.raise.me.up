@@ -18,7 +18,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+<<<<<<< HEAD
 title: " GOD RAISE ME UP "
+=======
+<<<<<<< HEAD
+title: GOD RAISE ME UP
+email: ysawybb@gmail.com
+=======
+title: GOD RAISE ME UP
+>>>>>>> 3810f5fa789ee90513c5bc8a17214647195c6c8f
 email: ysawybb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
