@@ -28,7 +28,7 @@ twitter_username: none
 github_username:  anxinzhu1
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
